@@ -6,6 +6,7 @@ namespace ind_task1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("17 option.");
             Task_1();
             Task_2();
             Task_3();
